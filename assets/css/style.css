@@ -85,7 +85,8 @@ p {
 }
 
 .rate #rat{
-  width: 8%;
+  width: 130px;
+  height: 40px;
   border-radius: 30px;
   margin-top: 15px;
   background: greenyellow;
