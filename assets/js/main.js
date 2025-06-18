@@ -266,9 +266,18 @@ function updateStarsDisplay() {
 }
 
 const typed = new Typed('.multiple-text', {
-  strings: ['Frontend developer', 'Graphic designer', 'Web designer', '...'],
-  typeSpeed: 100,
-  backSpeed: 100,
+  strings: [
+    'Frontend developer',
+    'Graphic designer',
+    'Web designer',
+    'coder crafting user-centric solutions',
+    'Innovative designer of responsive e-learning platforms',
+    'Creative problem-solver in modern web technologies',
+    'Dedicated to building seamless digital experiences',
+    'Expert in creating visually appealing, functional websites'
+],
+  typeSpeed: 50,
+  backSpeed: 50,
   backDelay: 1000,
   loop: true
 });
