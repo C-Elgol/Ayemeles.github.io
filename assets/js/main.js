@@ -267,7 +267,7 @@ function updateStarsDisplay() {
 
 const typed = new Typed('.multiple-text', {
   strings: [
-    'Frontend developer',
+    'Fullstack developer',
     'Graphic designer',
     'Web designer',
     'coder crafting user-centric solutions',
